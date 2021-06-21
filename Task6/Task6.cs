@@ -151,7 +151,7 @@ namespace Нейронки_9
         {
             Console.ForegroundColor = ConsoleColor.Black;
             Console.BackgroundColor = ConsoleColor.White;
-            ClusterAnalysis my = new ClusterAnalysis("C://Users//alenk//Desktop///Бауманка//ИТИБ//лаб9//list.xml");
+            ClusterAnalysis my = new ClusterAnalysis("./list.xml");
         }
 
     }
